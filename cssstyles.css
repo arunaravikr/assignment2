@@ -1,10 +1,10 @@
 * {
     box-sizing: border-box;
-    font-family: Helvetica;
+    font-family: Arial;
 }
 
 body {
-    background-color: #d6d6d6;
+    background-color: #d6f6f6;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 section {
     border: 1px solid black;
-    background-color: #b5c4d2;
+    background-color: #f3c4d2;
     margin: 10px;
 }
 
@@ -37,11 +37,11 @@ section.l1>h2 {
 }
 
 section.f2>h2 {
-    background-color: #ff0000;
+    background-color: #ffbb00;
 }
 
 section.n3>h2 {
-    color: #e2e2e2;
+    color: #e2e2e4;
     background-color: #9ACD32;
 }
 
